@@ -1,5 +1,5 @@
 <h1 align="center">
-    Conversor RGB, HSV, CMYK
+    Processing - Conversor RGB, HSV, CMYK
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlfredoVidinhas/Conversor-RGB-HSV-CMYK">
@@ -17,4 +17,4 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-![alt text](https://miro.medium.com/max/4800/1*8gB80hSjx6UcNxOyIemt1Q.png)
+![alt text](https://github.com/AlfredoVidinhas/Conversor-RGB-HSV-CMYK/blob/main/image.png)
